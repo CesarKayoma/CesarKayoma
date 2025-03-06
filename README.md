@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and DataScience
 - 🌱 I’m currently learning HTML5 e CSS3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG: @harmonia.ky
+- 📫 How to reach me IG: @kayoma.c
 
 <!---
 CesarKayoma/CesarKayoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
